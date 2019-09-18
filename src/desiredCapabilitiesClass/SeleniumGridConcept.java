@@ -24,7 +24,6 @@ public class SeleniumGridConcept
 		if (browsernm.equalsIgnoreCase("chrome"))
 		{
 			System.out.println("In Chrome browser");
-			System.out.println("In Chrome browser");
 			DesiredCapabilities cap =new DesiredCapabilities();
 			cap.setBrowserName("chrome");
 			System.out.println(2);
