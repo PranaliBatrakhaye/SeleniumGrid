@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="79623" started-at="2019-09-15T16:46:33Z" finished-at="2019-09-15T16:47:53Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="79623" started-at="2019-09-15T16:46:33Z" finished-at="2019-09-15T16:47:53Z">
+      <class name="desiredCapabilitiesClass.SeleniumGridConcept">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:0, instance:desiredCapabilitiesClass.SeleniumGridConcept@2cfb4a64]" name="openBrowser" is-config="true" duration-ms="53257" started-at="2019-09-15T22:16:33Z" finished-at="2019-09-15T22:17:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="enterUrl()[pri:0, instance:desiredCapabilitiesClass.SeleniumGridConcept@2cfb4a64]" name="enterUrl" duration-ms="26348" started-at="2019-09-15T22:17:26Z" finished-at="2019-09-15T22:17:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrl -->
+      </class> <!-- desiredCapabilitiesClass.SeleniumGridConcept -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
